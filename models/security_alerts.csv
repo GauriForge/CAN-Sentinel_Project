@@ -1,0 +1,256 @@
+alert_time,event_timestamp,can_id,attack_type,severity,alert_level,rule_score,ml_anomaly,reason,status
+2026-09-19 12:17:33,1767261.6,0x100,Unknown,Medium,WARNING,1,1,"high message frequency, ML anomaly",OPEN
+2026-09-19 12:17:33,1767261.6001,0x101,Unknown,Medium,WARNING,1,1,"high message frequency, ML anomaly",OPEN
+2026-09-19 12:17:33,1767261.6002,0x102,Unknown,Medium,WARNING,1,1,"high message frequency, ML anomaly",OPEN
+2026-09-19 12:17:33,1767261.6003,0x103,Unknown,Medium,WARNING,1,1,"high message frequency, ML anomaly",OPEN
+2026-09-19 12:17:33,1767261.6004,0x104,Unknown,Medium,WARNING,1,1,"high message frequency, ML anomaly",OPEN
+2026-09-19 12:17:33,1767261.6005,0x100,Unknown,High,HIGH ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767261.6006,0x101,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6007,0x102,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6008,0x103,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6009,0x104,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.601,0x100,Unknown,High,HIGH ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767261.6011,0x101,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6012,0x102,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6013,0x103,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6014,0x104,Unknown,Critical,CRITICAL ALERT,3,1,"high message frequency, short message interval, suspicious payload, ML anomaly",OPEN
+2026-09-19 12:17:33,1767261.6015,0x100,Unknown,High,HIGH ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767261.6016,0x101,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6017,0x102,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6018,0x103,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6019,0x104,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.602,0x100,Unknown,High,HIGH ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767261.6021,0x101,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6022,0x102,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6023,0x103,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6024,0x104,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6025,0x100,Unknown,High,HIGH ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767261.6026,0x101,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6027,0x102,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6028,0x103,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6029,0x104,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.603,0x100,Unknown,High,HIGH ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767261.6031,0x101,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6032,0x102,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6033,0x103,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6034,0x104,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6035,0x100,Unknown,High,HIGH ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767261.6036,0x101,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6037,0x102,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6038,0x103,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6039,0x104,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.604,0x100,Unknown,High,HIGH ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767261.6041,0x101,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6042,0x102,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6043,0x103,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6044,0x104,Unknown,Critical,CRITICAL ALERT,3,1,"high message frequency, short message interval, suspicious payload, ML anomaly",OPEN
+2026-09-19 12:17:33,1767261.6045,0x100,Unknown,High,HIGH ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767261.6046,0x101,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6047,0x102,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6048,0x103,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6049,0x104,Unknown,High,HIGH ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767261.605,0x100,Unknown,High,HIGH ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767261.6051,0x101,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6052,0x102,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6053,0x103,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6054,0x104,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6055,0x100,Unknown,High,HIGH ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767261.6056,0x101,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6057,0x102,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6058,0x103,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6059,0x104,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.606,0x100,Unknown,High,HIGH ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767261.6061,0x101,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6062,0x102,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6063,0x103,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6064,0x104,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6065,0x100,Unknown,High,HIGH ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767261.6066,0x101,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6067,0x102,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6068,0x103,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6069,0x104,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.607,0x100,Unknown,High,HIGH ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767261.6071,0x101,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6072,0x102,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6073,0x103,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6074,0x104,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6075,0x100,Unknown,High,HIGH ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767261.6076,0x101,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6077,0x102,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6078,0x103,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6079,0x104,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.608,0x100,Unknown,High,HIGH ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767261.6081,0x101,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6082,0x102,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6083,0x103,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6084,0x104,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6085,0x100,Unknown,High,HIGH ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767261.6086,0x101,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6087,0x102,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6088,0x103,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6089,0x104,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.609,0x100,Unknown,High,HIGH ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767261.6091,0x101,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6092,0x102,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6093,0x103,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6094,0x104,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6095,0x100,Unknown,High,HIGH ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767261.6096,0x101,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6097,0x102,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6098,0x103,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767261.6099,0x104,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2,0x100,Unknown,Critical,CRITICAL ALERT,1,1,"high message frequency, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.2001,0x101,Unknown,Medium,WARNING,1,1,"high message frequency, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.2002,0x102,Unknown,Medium,WARNING,1,1,"high message frequency, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.2003,0x103,Unknown,Medium,WARNING,1,1,"high message frequency, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.2004,0x104,Unknown,Medium,WARNING,1,1,"high message frequency, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.2005,0x100,Unknown,Critical,CRITICAL ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.2006,0x101,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2007,0x102,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2008,0x103,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2009,0x104,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.201,0x100,Unknown,Critical,CRITICAL ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.2011,0x101,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2012,0x102,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2013,0x103,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2014,0x104,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2015,0x100,Unknown,Critical,CRITICAL ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.2016,0x101,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2017,0x102,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2018,0x103,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2019,0x104,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.202,0x100,Unknown,Critical,CRITICAL ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.2021,0x101,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2022,0x102,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2023,0x103,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2024,0x104,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2025,0x100,Unknown,Critical,CRITICAL ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.2026,0x101,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2027,0x102,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2028,0x103,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2029,0x104,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.203,0x100,Unknown,Critical,CRITICAL ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.2031,0x101,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2032,0x102,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2033,0x103,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2034,0x104,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2035,0x100,Unknown,Critical,CRITICAL ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.2036,0x101,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2037,0x102,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2038,0x103,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2039,0x104,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.204,0x100,Unknown,Critical,CRITICAL ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.2041,0x101,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2042,0x102,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2043,0x103,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2044,0x104,Unknown,Critical,CRITICAL ALERT,3,1,"high message frequency, short message interval, suspicious payload, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.2045,0x100,Unknown,Critical,CRITICAL ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.2046,0x101,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2047,0x102,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2048,0x103,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2049,0x104,Unknown,High,HIGH ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.205,0x100,Unknown,Critical,CRITICAL ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.2051,0x101,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2052,0x102,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2053,0x103,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2054,0x104,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2055,0x100,Unknown,Critical,CRITICAL ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.2056,0x101,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2057,0x102,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2058,0x103,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2059,0x104,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.206,0x100,Unknown,Critical,CRITICAL ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.2061,0x101,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2062,0x102,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2063,0x103,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2064,0x104,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2065,0x100,Unknown,Critical,CRITICAL ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.2066,0x101,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2067,0x102,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2068,0x103,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2069,0x104,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.207,0x100,Unknown,Critical,CRITICAL ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.2071,0x101,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2072,0x102,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2073,0x103,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2074,0x104,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2075,0x100,Unknown,Critical,CRITICAL ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.2076,0x101,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2077,0x102,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2078,0x103,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2079,0x104,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.208,0x100,Unknown,Critical,CRITICAL ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.2081,0x101,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2082,0x102,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2083,0x103,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2084,0x104,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2085,0x100,Unknown,Critical,CRITICAL ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.2086,0x101,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2087,0x102,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2088,0x103,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2089,0x104,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.209,0x100,Unknown,Critical,CRITICAL ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.2091,0x101,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2092,0x102,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2093,0x103,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2094,0x104,Unknown,High,HIGH ALERT,2,0,"high message frequency, short message interval",OPEN
+2026-09-19 12:17:33,1767265.2095,0x100,Unknown,Critical,CRITICAL ALERT,3,1,"high message frequency, short message interval, suspicious payload, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20951,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20952,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20953,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20954,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20955,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20956,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20957,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20958,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20959,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.2096,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20961,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20962,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20963,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20964,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20965,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20966,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20967,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20968,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20969,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.2097,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20971,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20972,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20973,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20974,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20975,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20976,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20977,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20978,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20979,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.2098,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20981,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20982,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20983,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20984,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20985,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20986,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20987,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20988,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20989,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.2099,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20991,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20992,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20993,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20994,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20995,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20996,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20997,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20998,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.20999,0x100,Unknown,Critical,CRITICAL ALERT,4,1,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.21,0x100,Unknown,Critical,CRITICAL ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.21012,0x100,Unknown,Critical,CRITICAL ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.21024,0x100,Unknown,Critical,CRITICAL ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.21036,0x100,Unknown,Critical,CRITICAL ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.21048,0x100,Unknown,Critical,CRITICAL ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.2106,0x100,Unknown,Critical,CRITICAL ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.21072,0x100,Unknown,Critical,CRITICAL ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.21084,0x100,Unknown,Critical,CRITICAL ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.21096,0x100,Unknown,Critical,CRITICAL ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN
+2026-09-19 12:17:33,1767265.21108,0x100,Unknown,Critical,CRITICAL ALERT,2,1,"high message frequency, short message interval, ML anomaly",OPEN

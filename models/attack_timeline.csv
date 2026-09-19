@@ -1,0 +1,256 @@
+event_id,event_time,can_id,attack_type,severity,rule_score,ml_anomaly,message_frequency,time_interval,reason,status
+1,1767261.6,0x100,Abnormal Frequency,Medium,1,1,20,0.0,"high message frequency, ML anomaly",DETECTED
+2,1767261.6072,0x102,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+3,1767261.6071,0x101,Abnormal Frequency,High,2,0,20,0.0004999998491257,"high message frequency, short message interval",DETECTED
+4,1767261.607,0x100,Abnormal Frequency,High,2,1,20,0.0005000000819563,"high message frequency, short message interval, ML anomaly",DETECTED
+5,1767261.6069,0x104,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+6,1767261.6068,0x103,Abnormal Frequency,High,2,0,20,0.0004999998491257,"high message frequency, short message interval",DETECTED
+7,1767261.6067,0x102,Abnormal Frequency,High,2,0,20,0.0004999998491257,"high message frequency, short message interval",DETECTED
+8,1767261.6066,0x101,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+9,1767261.6065,0x100,Abnormal Frequency,High,2,1,20,0.0005000000819563,"high message frequency, short message interval, ML anomaly",DETECTED
+10,1767261.6064,0x104,Abnormal Frequency,High,2,0,20,0.0004999998491257,"high message frequency, short message interval",DETECTED
+11,1767261.6063,0x103,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+12,1767261.6062,0x102,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+13,1767261.6061,0x101,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+14,1767261.606,0x100,Abnormal Frequency,High,2,1,20,0.0004999998491257,"high message frequency, short message interval, ML anomaly",DETECTED
+15,1767261.6059,0x104,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+16,1767261.6058,0x103,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+17,1767261.6057,0x102,Abnormal Frequency,High,2,0,20,0.0004999998491257,"high message frequency, short message interval",DETECTED
+18,1767261.6056,0x101,Abnormal Frequency,High,2,0,20,0.0004999998491257,"high message frequency, short message interval",DETECTED
+19,1767261.6055,0x100,Abnormal Frequency,High,2,1,20,0.0005000000819563,"high message frequency, short message interval, ML anomaly",DETECTED
+20,1767261.6054,0x104,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+21,1767261.6053,0x103,Abnormal Frequency,High,2,0,20,0.0004999998491257,"high message frequency, short message interval",DETECTED
+22,1767261.6052,0x102,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+23,1767261.6073,0x103,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+24,1767261.6074,0x104,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+25,1767261.6075,0x100,Abnormal Frequency,High,2,1,20,0.0004999998491257,"high message frequency, short message interval, ML anomaly",DETECTED
+26,1767261.6076,0x101,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+27,1767261.6099,0x104,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+28,1767261.6098,0x103,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+29,1767261.6097,0x102,Abnormal Frequency,High,2,0,20,0.0004999998491257,"high message frequency, short message interval",DETECTED
+30,1767261.6096,0x101,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+31,1767261.6095,0x100,Abnormal Frequency,High,2,1,20,0.0005000000819563,"high message frequency, short message interval, ML anomaly",DETECTED
+32,1767261.6094,0x104,Abnormal Frequency,High,2,0,20,0.0004999998491257,"high message frequency, short message interval",DETECTED
+33,1767261.6093,0x103,Abnormal Frequency,High,2,0,20,0.0004999998491257,"high message frequency, short message interval",DETECTED
+34,1767261.6092,0x102,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+35,1767261.6091,0x101,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+36,1767261.609,0x100,Abnormal Frequency,High,2,1,20,0.0004999998491257,"high message frequency, short message interval, ML anomaly",DETECTED
+37,1767261.6051,0x101,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+38,1767261.6089,0x104,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+39,1767261.6086,0x101,Abnormal Frequency,High,2,0,20,0.0004999998491257,"high message frequency, short message interval",DETECTED
+40,1767261.6085,0x100,Abnormal Frequency,High,2,1,20,0.0005000000819563,"high message frequency, short message interval, ML anomaly",DETECTED
+41,1767261.6084,0x104,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+42,1767261.6083,0x103,Abnormal Frequency,High,2,0,20,0.0004999998491257,"high message frequency, short message interval",DETECTED
+43,1767261.6082,0x102,Abnormal Frequency,High,2,0,20,0.0004999998491257,"high message frequency, short message interval",DETECTED
+44,1767261.6081,0x101,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+45,1767261.608,0x100,Abnormal Frequency,High,2,1,20,0.0005000000819563,"high message frequency, short message interval, ML anomaly",DETECTED
+46,1767261.6079,0x104,Abnormal Frequency,High,2,0,20,0.0004999998491257,"high message frequency, short message interval",DETECTED
+47,1767261.6078,0x103,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+48,1767261.6077,0x102,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+49,1767261.6088,0x103,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+50,1767261.605,0x100,Abnormal Frequency,High,2,1,20,0.0005000000819563,"high message frequency, short message interval, ML anomaly",DETECTED
+51,1767261.6087,0x102,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+52,1767261.6048,0x103,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+53,1767261.6021,0x101,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+54,1767261.602,0x100,Abnormal Frequency,High,2,1,20,0.0004999998491257,"high message frequency, short message interval, ML anomaly",DETECTED
+55,1767261.6019,0x104,Abnormal Frequency,High,2,0,20,0.0004999998491257,"high message frequency, short message interval",DETECTED
+56,1767261.6018,0x103,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+57,1767261.6017,0x102,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+58,1767261.6016,0x101,Abnormal Frequency,High,2,0,20,0.0004999998491257,"high message frequency, short message interval",DETECTED
+59,1767261.6015,0x100,Abnormal Frequency,High,2,1,20,0.0005000000819563,"high message frequency, short message interval, ML anomaly",DETECTED
+60,1767261.6014,0x104,Abnormal Frequency,Critical,3,1,20,0.0005000000819563,"high message frequency, short message interval, suspicious payload, ML anomaly",DETECTED
+61,1767261.6013,0x103,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+62,1767261.6012,0x102,Abnormal Frequency,High,2,0,20,0.0004999998491257,"high message frequency, short message interval",DETECTED
+63,1767261.6011,0x101,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+64,1767261.601,0x100,Abnormal Frequency,High,2,1,20,0.0005000000819563,"high message frequency, short message interval, ML anomaly",DETECTED
+65,1767261.6009,0x104,Abnormal Frequency,High,2,0,20,0.0004999998491257,"high message frequency, short message interval",DETECTED
+66,1767261.6008,0x103,Abnormal Frequency,High,2,0,20,0.0004999998491257,"high message frequency, short message interval",DETECTED
+67,1767261.6006,0x101,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+68,1767261.6005,0x100,Abnormal Frequency,High,2,1,20,0.0004999998491257,"high message frequency, short message interval, ML anomaly",DETECTED
+69,1767261.6004,0x104,Abnormal Frequency,Medium,1,1,20,0.0,"high message frequency, ML anomaly",DETECTED
+70,1767261.6003,0x103,Abnormal Frequency,Medium,1,1,20,0.0,"high message frequency, ML anomaly",DETECTED
+71,1767261.6002,0x102,Abnormal Frequency,Medium,1,1,20,0.0,"high message frequency, ML anomaly",DETECTED
+72,1767261.6001,0x101,Abnormal Frequency,Medium,1,1,20,0.0,"high message frequency, ML anomaly",DETECTED
+73,1767261.6049,0x104,Abnormal Frequency,High,2,1,20,0.0004999998491257,"high message frequency, short message interval, ML anomaly",DETECTED
+74,1767261.6022,0x102,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+75,1767261.6023,0x103,Abnormal Frequency,High,2,0,20,0.0004999998491257,"high message frequency, short message interval",DETECTED
+76,1767261.6007,0x102,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+77,1767261.6025,0x100,Abnormal Frequency,High,2,1,20,0.0005000000819563,"high message frequency, short message interval, ML anomaly",DETECTED
+78,1767261.6047,0x102,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+79,1767261.6024,0x104,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+80,1767261.6046,0x101,Abnormal Frequency,High,2,0,20,0.0004999998491257,"high message frequency, short message interval",DETECTED
+81,1767261.6045,0x100,Abnormal Frequency,High,2,1,20,0.0004999998491257,"high message frequency, short message interval, ML anomaly",DETECTED
+82,1767261.6044,0x104,Abnormal Frequency,Critical,3,1,20,0.0005000000819563,"high message frequency, short message interval, suspicious payload, ML anomaly",DETECTED
+83,1767261.6042,0x102,Abnormal Frequency,High,2,0,20,0.0004999998491257,"high message frequency, short message interval",DETECTED
+84,1767261.6041,0x101,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+85,1767261.604,0x100,Abnormal Frequency,High,2,1,20,0.0005000000819563,"high message frequency, short message interval, ML anomaly",DETECTED
+86,1767261.6039,0x104,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+87,1767261.6038,0x103,Abnormal Frequency,High,2,0,20,0.0004999998491257,"high message frequency, short message interval",DETECTED
+88,1767261.6037,0x102,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+89,1767261.6043,0x103,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+90,1767261.603,0x100,Abnormal Frequency,High,2,1,20,0.0004999998491257,"high message frequency, short message interval, ML anomaly",DETECTED
+91,1767261.6036,0x101,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+92,1767261.6028,0x103,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+93,1767261.6029,0x104,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+94,1767261.6026,0x101,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+95,1767261.6031,0x101,Abnormal Frequency,High,2,0,20,0.0004999998491257,"high message frequency, short message interval",DETECTED
+96,1767261.6027,0x102,Abnormal Frequency,High,2,0,20,0.0004999998491257,"high message frequency, short message interval",DETECTED
+97,1767261.6033,0x103,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+98,1767261.6034,0x104,Abnormal Frequency,High,2,0,20,0.0004999998491257,"high message frequency, short message interval",DETECTED
+99,1767261.6035,0x100,Abnormal Frequency,High,2,1,20,0.0005000000819563,"high message frequency, short message interval, ML anomaly",DETECTED
+100,1767261.6032,0x102,Abnormal Frequency,High,2,0,20,0.0005000000819563,"high message frequency, short message interval",DETECTED
+101,1767265.20954,0x100,Abnormal Frequency,Critical,4,1,79,9.999843314290048e-06,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+102,1767265.20959,0x100,Abnormal Frequency,Critical,4,1,79,1.00000761449337e-05,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+103,1767265.20955,0x100,Abnormal Frequency,Critical,4,1,79,1.00000761449337e-05,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+104,1767265.20956,0x100,Abnormal Frequency,Critical,4,1,79,1.00000761449337e-05,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+105,1767265.20957,0x100,Abnormal Frequency,Critical,4,1,79,9.999843314290048e-06,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+106,1767265.20958,0x100,Abnormal Frequency,Critical,4,1,79,1.00000761449337e-05,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+107,1767265.20968,0x100,Abnormal Frequency,Critical,4,1,79,1.00000761449337e-05,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+108,1767265.20964,0x100,Abnormal Frequency,Critical,4,1,79,1.00000761449337e-05,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+109,1767265.20961,0x100,Abnormal Frequency,Critical,4,1,79,1.00000761449337e-05,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+110,1767265.20962,0x100,Abnormal Frequency,Critical,4,1,79,1.00000761449337e-05,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+111,1767265.20963,0x100,Abnormal Frequency,Critical,4,1,79,9.999843314290048e-06,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+112,1767265.20965,0x100,Abnormal Frequency,Critical,4,1,79,1.00000761449337e-05,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+113,1767265.20966,0x100,Abnormal Frequency,Critical,4,1,79,9.999843314290048e-06,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+114,1767265.20953,0x100,Abnormal Frequency,Critical,4,1,79,1.00000761449337e-05,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+115,1767265.20967,0x100,Abnormal Frequency,Critical,4,1,79,1.00000761449337e-05,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+116,1767265.2096,0x100,Abnormal Frequency,Critical,4,1,79,9.999843314290048e-06,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+117,1767265.20952,0x100,Abnormal Frequency,Critical,4,1,79,1.00000761449337e-05,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+118,1767265.2086,0x101,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+119,1767265.2095,0x100,Abnormal Frequency,Critical,3,1,79,0.0005000000819563,"high message frequency, short message interval, suspicious payload, ML anomaly",DETECTED
+120,1767265.2079,0x104,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+121,1767265.20969,0x100,Abnormal Frequency,Critical,4,1,79,9.999843314290048e-06,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+122,1767265.208,0x100,Abnormal Frequency,Critical,2,1,79,0.0005000000819563,"high message frequency, short message interval, ML anomaly",DETECTED
+123,1767265.2081,0x101,Abnormal Frequency,High,2,0,19,0.0004999998491257,"high message frequency, short message interval",DETECTED
+124,1767265.2082,0x102,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+125,1767265.2083,0x103,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+126,1767265.2084,0x104,Abnormal Frequency,High,2,0,19,0.0004999998491257,"high message frequency, short message interval",DETECTED
+127,1767265.20951,0x100,Abnormal Frequency,Critical,4,1,79,9.999843314290048e-06,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+128,1767265.2085,0x100,Abnormal Frequency,Critical,2,1,79,0.0004999998491257,"high message frequency, short message interval, ML anomaly",DETECTED
+129,1767265.2088,0x103,Abnormal Frequency,High,2,0,19,0.0004999998491257,"high message frequency, short message interval",DETECTED
+130,1767265.2089,0x104,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+131,1767265.209,0x100,Abnormal Frequency,Critical,2,1,79,0.0005000000819563,"high message frequency, short message interval, ML anomaly",DETECTED
+132,1767265.2091,0x101,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+133,1767265.2092,0x102,Abnormal Frequency,High,2,0,19,0.0004999998491257,"high message frequency, short message interval",DETECTED
+134,1767265.2093,0x103,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+135,1767265.2094,0x104,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+136,1767265.2087,0x102,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+137,1767265.2097,0x100,Abnormal Frequency,Critical,4,1,79,1.00000761449337e-05,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+138,1767265.20994,0x100,Abnormal Frequency,Critical,4,1,79,1.00000761449337e-05,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+139,1767265.20972,0x100,Abnormal Frequency,Critical,4,1,79,9.999843314290048e-06,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+140,1767265.20993,0x100,Abnormal Frequency,Critical,4,1,79,9.999843314290048e-06,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+141,1767265.20995,0x100,Abnormal Frequency,Critical,4,1,79,1.00000761449337e-05,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+142,1767265.20996,0x100,Abnormal Frequency,Critical,4,1,79,9.999843314290048e-06,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+143,1767265.20997,0x100,Abnormal Frequency,Critical,4,1,79,1.00000761449337e-05,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+144,1767265.20998,0x100,Abnormal Frequency,Critical,4,1,79,1.00000761449337e-05,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+145,1767265.20999,0x100,Abnormal Frequency,Critical,4,1,79,9.999843314290048e-06,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+146,1767265.21,0x100,Abnormal Frequency,Critical,2,1,79,1.00000761449337e-05,"high message frequency, short message interval, ML anomaly",DETECTED
+147,1767265.21012,0x100,Abnormal Frequency,Critical,2,1,79,0.0001199999824166,"high message frequency, short message interval, ML anomaly",DETECTED
+148,1767265.21024,0x100,Abnormal Frequency,Critical,2,1,79,0.0001199999824166,"high message frequency, short message interval, ML anomaly",DETECTED
+149,1767265.21036,0x100,Abnormal Frequency,Critical,2,1,79,0.0001199999824166,"high message frequency, short message interval, ML anomaly",DETECTED
+150,1767265.21048,0x100,Abnormal Frequency,Critical,2,1,79,0.0001199999824166,"high message frequency, short message interval, ML anomaly",DETECTED
+151,1767265.2106,0x100,Abnormal Frequency,Critical,2,1,79,0.0001200002152472,"high message frequency, short message interval, ML anomaly",DETECTED
+152,1767265.21072,0x100,Abnormal Frequency,Critical,2,1,79,0.0001199999824166,"high message frequency, short message interval, ML anomaly",DETECTED
+153,1767265.21084,0x100,Abnormal Frequency,Critical,2,1,79,0.0001199999824166,"high message frequency, short message interval, ML anomaly",DETECTED
+154,1767265.2078,0x103,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+155,1767265.20992,0x100,Abnormal Frequency,Critical,4,1,79,1.00000761449337e-05,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+156,1767265.20991,0x100,Abnormal Frequency,Critical,4,1,79,1.00000761449337e-05,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+157,1767265.2099,0x100,Abnormal Frequency,Critical,4,1,79,9.999843314290048e-06,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+158,1767265.20989,0x100,Abnormal Frequency,Critical,4,1,79,1.00000761449337e-05,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+159,1767265.20973,0x100,Abnormal Frequency,Critical,4,1,79,1.00000761449337e-05,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+160,1767265.20974,0x100,Abnormal Frequency,Critical,4,1,79,1.00000761449337e-05,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+161,1767265.20975,0x100,Abnormal Frequency,Critical,4,1,79,9.999843314290048e-06,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+162,1767265.20976,0x100,Abnormal Frequency,Critical,4,1,79,1.00000761449337e-05,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+163,1767265.20977,0x100,Abnormal Frequency,Critical,4,1,79,1.00000761449337e-05,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+164,1767265.20978,0x100,Abnormal Frequency,Critical,4,1,79,9.999843314290048e-06,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+165,1767265.20979,0x100,Abnormal Frequency,Critical,4,1,79,1.00000761449337e-05,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+166,1767265.20971,0x100,Abnormal Frequency,Critical,4,1,79,1.00000761449337e-05,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+167,1767265.2098,0x100,Abnormal Frequency,Critical,4,1,79,1.00000761449337e-05,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+168,1767265.20982,0x100,Abnormal Frequency,Critical,4,1,79,1.00000761449337e-05,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+169,1767265.20983,0x100,Abnormal Frequency,Critical,4,1,79,1.00000761449337e-05,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+170,1767265.20984,0x100,Abnormal Frequency,Critical,4,1,79,9.999843314290048e-06,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+171,1767265.20985,0x100,Abnormal Frequency,Critical,4,1,79,1.00000761449337e-05,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+172,1767265.20986,0x100,Abnormal Frequency,Critical,4,1,79,1.00000761449337e-05,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+173,1767265.20987,0x100,Abnormal Frequency,Critical,4,1,79,9.999843314290048e-06,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+174,1767265.20988,0x100,Abnormal Frequency,Critical,4,1,79,1.00000761449337e-05,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+175,1767265.20981,0x100,Abnormal Frequency,Critical,4,1,79,9.999843314290048e-06,"high message frequency, short message interval, suspicious payload, repeated message, ML anomaly",DETECTED
+176,1767265.2077,0x102,Abnormal Frequency,High,2,0,19,0.0004999998491257,"high message frequency, short message interval",DETECTED
+177,1767265.2027,0x102,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+178,1767265.2075,0x100,Abnormal Frequency,Critical,2,1,79,0.0005000000819563,"high message frequency, short message interval, ML anomaly",DETECTED
+179,1767265.202,0x100,Abnormal Frequency,Critical,2,1,79,0.0005000000819563,"high message frequency, short message interval, ML anomaly",DETECTED
+180,1767265.2021,0x101,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+181,1767265.2022,0x102,Abnormal Frequency,High,2,0,19,0.0004999998491257,"high message frequency, short message interval",DETECTED
+182,1767265.2023,0x103,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+183,1767265.2024,0x104,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+184,1767265.2025,0x100,Abnormal Frequency,Critical,2,1,79,0.0004999998491257,"high message frequency, short message interval, ML anomaly",DETECTED
+185,1767265.2026,0x101,Abnormal Frequency,High,2,0,19,0.0004999998491257,"high message frequency, short message interval",DETECTED
+186,1767265.21096,0x100,Abnormal Frequency,Critical,2,1,79,0.0001199999824166,"high message frequency, short message interval, ML anomaly",DETECTED
+187,1767265.2028,0x103,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+188,1767265.2029,0x104,Abnormal Frequency,High,2,0,19,0.0004999998491257,"high message frequency, short message interval",DETECTED
+189,1767265.203,0x100,Abnormal Frequency,Critical,2,1,79,0.0005000000819563,"high message frequency, short message interval, ML anomaly",DETECTED
+190,1767265.2031,0x101,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+191,1767265.2032,0x102,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+192,1767265.2033,0x103,Abnormal Frequency,High,2,0,19,0.0004999998491257,"high message frequency, short message interval",DETECTED
+193,1767265.2034,0x104,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+194,1767265.2019,0x104,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+195,1767265.2018,0x103,Abnormal Frequency,High,2,0,19,0.0004999998491257,"high message frequency, short message interval",DETECTED
+196,1767265.2017,0x102,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+197,1767265.2016,0x101,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+198,1767265.2,0x100,Abnormal Frequency,Critical,1,1,79,0.0,"high message frequency, ML anomaly",DETECTED
+199,1767265.2001,0x101,Abnormal Frequency,Medium,1,1,19,0.0,"high message frequency, ML anomaly",DETECTED
+200,1767265.2002,0x102,Abnormal Frequency,Medium,1,1,19,0.0,"high message frequency, ML anomaly",DETECTED
+201,1767265.2003,0x103,Abnormal Frequency,Medium,1,1,19,0.0,"high message frequency, ML anomaly",DETECTED
+202,1767265.2004,0x104,Abnormal Frequency,Medium,1,1,19,0.0,"high message frequency, ML anomaly",DETECTED
+203,1767265.2005,0x100,Abnormal Frequency,Critical,2,1,79,0.0005000000819563,"high message frequency, short message interval, ML anomaly",DETECTED
+204,1767265.2006,0x101,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+205,1767265.2035,0x100,Abnormal Frequency,Critical,2,1,79,0.0005000000819563,"high message frequency, short message interval, ML anomaly",DETECTED
+206,1767265.2007,0x102,Abnormal Frequency,High,2,0,19,0.0004999998491257,"high message frequency, short message interval",DETECTED
+207,1767265.2009,0x104,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+208,1767265.201,0x100,Abnormal Frequency,Critical,2,1,79,0.0004999998491257,"high message frequency, short message interval, ML anomaly",DETECTED
+209,1767265.2011,0x101,Abnormal Frequency,High,2,0,19,0.0004999998491257,"high message frequency, short message interval",DETECTED
+210,1767265.2012,0x102,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+211,1767265.2013,0x103,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+212,1767265.2014,0x104,Abnormal Frequency,High,2,0,19,0.0004999998491257,"high message frequency, short message interval",DETECTED
+213,1767265.2015,0x100,Abnormal Frequency,Critical,2,1,79,0.0005000000819563,"high message frequency, short message interval, ML anomaly",DETECTED
+214,1767265.2008,0x103,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+215,1767265.2036,0x101,Abnormal Frequency,High,2,0,19,0.0004999998491257,"high message frequency, short message interval",DETECTED
+216,1767265.2037,0x102,Abnormal Frequency,High,2,0,19,0.0004999998491257,"high message frequency, short message interval",DETECTED
+217,1767265.2038,0x103,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+218,1767265.2059,0x104,Abnormal Frequency,High,2,0,19,0.0004999998491257,"high message frequency, short message interval",DETECTED
+219,1767265.206,0x100,Abnormal Frequency,Critical,2,1,79,0.0005000000819563,"high message frequency, short message interval, ML anomaly",DETECTED
+220,1767265.2061,0x101,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+221,1767265.2062,0x102,Abnormal Frequency,High,2,0,19,0.0004999998491257,"high message frequency, short message interval",DETECTED
+222,1767265.2063,0x103,Abnormal Frequency,High,2,0,19,0.0004999998491257,"high message frequency, short message interval",DETECTED
+223,1767265.2064,0x104,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+224,1767265.2065,0x100,Abnormal Frequency,Critical,2,1,79,0.0005000000819563,"high message frequency, short message interval, ML anomaly",DETECTED
+225,1767265.2058,0x103,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+226,1767265.2066,0x101,Abnormal Frequency,High,2,0,19,0.0004999998491257,"high message frequency, short message interval",DETECTED
+227,1767265.2068,0x103,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+228,1767265.2069,0x104,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+229,1767265.207,0x100,Abnormal Frequency,Critical,2,1,79,0.0004999998491257,"high message frequency, short message interval, ML anomaly",DETECTED
+230,1767265.2071,0x101,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+231,1767265.2072,0x102,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+232,1767265.2073,0x103,Abnormal Frequency,High,2,0,19,0.0004999998491257,"high message frequency, short message interval",DETECTED
+233,1767265.2074,0x104,Abnormal Frequency,High,2,0,19,0.0004999998491257,"high message frequency, short message interval",DETECTED
+234,1767265.2067,0x102,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+235,1767265.2076,0x101,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+236,1767265.2057,0x102,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+237,1767265.2055,0x100,Abnormal Frequency,Critical,2,1,79,0.0004999998491257,"high message frequency, short message interval, ML anomaly",DETECTED
+238,1767265.2039,0x104,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+239,1767265.204,0x100,Abnormal Frequency,Critical,2,1,79,0.0004999998491257,"high message frequency, short message interval, ML anomaly",DETECTED
+240,1767265.2041,0x101,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+241,1767265.2042,0x102,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+242,1767265.2043,0x103,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+243,1767265.2044,0x104,Abnormal Frequency,Critical,3,1,19,0.0004999998491257,"high message frequency, short message interval, suspicious payload, ML anomaly",DETECTED
+244,1767265.2045,0x100,Abnormal Frequency,Critical,2,1,79,0.0005000000819563,"high message frequency, short message interval, ML anomaly",DETECTED
+245,1767265.2056,0x101,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+246,1767265.2046,0x101,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+247,1767265.2048,0x103,Abnormal Frequency,High,2,0,19,0.0004999998491257,"high message frequency, short message interval",DETECTED
+248,1767265.2049,0x104,Abnormal Frequency,High,2,1,19,0.0005000000819563,"high message frequency, short message interval, ML anomaly",DETECTED
+249,1767265.205,0x100,Abnormal Frequency,Critical,2,1,79,0.0005000000819563,"high message frequency, short message interval, ML anomaly",DETECTED
+250,1767265.2051,0x101,Abnormal Frequency,High,2,0,19,0.0004999998491257,"high message frequency, short message interval",DETECTED
+251,1767265.2052,0x102,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+252,1767265.2053,0x103,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+253,1767265.2054,0x104,Abnormal Frequency,High,2,0,19,0.0005000000819563,"high message frequency, short message interval",DETECTED
+254,1767265.2047,0x102,Abnormal Frequency,High,2,0,19,0.0004999998491257,"high message frequency, short message interval",DETECTED
+255,1767265.21108,0x100,Abnormal Frequency,Critical,2,1,79,0.0001199999824166,"high message frequency, short message interval, ML anomaly",DETECTED
